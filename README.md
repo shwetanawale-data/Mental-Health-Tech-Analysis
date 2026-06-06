@@ -39,9 +39,15 @@ Mental Health in Tech Survey Dataset
 
 ## Key Findings
 
-- Family history impacts treatment decisions.
-- Workplace support improves mental health outcomes.
-- Younger employees report more mental health concerns.
+- Employees whose mental health frequently affected their work were more likely to seek treatment, but a significant number still remained untreated.
+- Workplace mental health support strongly increased treatment-seeking behavior.
+- Employees with a family history of mental illness showed higher treatment rates than those without a family history.
+- A high-risk group of employees experienced work interference due to mental health issues but never sought treatment.
+- Organizations with stronger mental health policies and resources reported better employee support outcomes.
+- Male employees represented a large share of untreated individuals affected by mental health challenges.
+- Awareness and accessibility of mental health benefits played a major role in treatment decisions.
+- Workplace culture had a significant impact on employees' willingness to seek help.
+- Improving organizational support can substantially improve employee mental well-being and productivity.
 
 ## Author
 
